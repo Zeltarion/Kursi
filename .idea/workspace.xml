@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c81df6d-fcc9-47ed-a88e-18d4b39163d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/blog/View_blog_first_menu.php" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Symfony/LICENSE" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Symfony/README.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Symfony/app/.htaccess" afterPath="" />
@@ -3801,6 +3800,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/Symfony/web/config.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Symfony/web/favicon.ico" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Symfony/web/robots.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kursi.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -3829,7 +3829,7 @@
       <file leaf-file-name="View_blog_first_menu.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/blog/View_blog_first_menu.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="4" selection-start="980" selection-end="980" vertical-scroll-proportion="-19.375">
+            <state line="37" column="4" selection-start="980" selection-end="980" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -3838,7 +3838,7 @@
       <file leaf-file-name="View_blog.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/View_blog.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="17" selection-start="692" selection-end="692" vertical-scroll-proportion="-15.0">
+            <state line="24" column="17" selection-start="692" selection-end="692" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -3847,7 +3847,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="20" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.25">
+            <state line="2" column="20" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -3856,7 +3856,7 @@
       <file leaf-file-name="View_index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/View_index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="32" selection-start="363" selection-end="363" vertical-scroll-proportion="0.26112187">
+            <state line="9" column="32" selection-start="363" selection-end="363" vertical-scroll-proportion="0.27383366">
               <folding />
             </state>
           </provider>
@@ -3892,7 +3892,7 @@
       <file leaf-file-name="View_form_create_blog.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/blog/View_form_create_blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="18" selection-start="185" selection-end="185" vertical-scroll-proportion="-3.125">
+            <state line="5" column="18" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -3901,7 +3901,7 @@
       <file leaf-file-name="View_form_create_post.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/blog/View_form_create_post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="38" selection-start="317" selection-end="317" vertical-scroll-proportion="-7.5">
+            <state line="12" column="38" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -3995,6 +3995,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -4029,7 +4030,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -4104,14 +4104,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="30" width="1365" height="714" extended-state="1" />
-    <editor active="true" />
+    <frame x="0" y="30" width="1365" height="714" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928678" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17905918" sideWeight="0.6619469" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20380229" sideWeight="0.0" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18479088" sideWeight="0.0" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17905918" sideWeight="0.66725665" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -4180,112 +4180,92 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/models/Model_save_user.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="209" column="129" selection-start="8712" selection-end="8717" vertical-scroll-proportion="0.46626985">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/blog/View_form_create_post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="38" selection-start="317" selection-end="317" vertical-scroll-proportion="-7.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/blog/View_form_create_blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="18" selection-start="185" selection-end="185" vertical-scroll-proportion="-3.125">
-          <folding />
-        </state>
+        <state line="209" column="129" selection-start="8712" selection-end="8717" vertical-scroll-proportion="0.46626985" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models/config/ConfigDb.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="23" selection-start="29" selection-end="29" vertical-scroll-proportion="0.029013539">
-          <folding />
-        </state>
+        <state line="1" column="23" selection-start="29" selection-end="29" vertical-scroll-proportion="0.029013539" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models/database/Database.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/tables/TableGateway.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models/tables/blogs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/blog/View_blog_first_menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="4" selection-start="980" selection-end="980" vertical-scroll-proportion="-19.375">
-          <folding />
-        </state>
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models/tables/tags.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models/tables/posts_tags.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/Controller_blog.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="46" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models/tables/users.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="1" selection-start="455" selection-end="455" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="18" column="1" selection-start="455" selection-end="455" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models/database/MySqlDb.php">
+    <entry file="file://$PROJECT_DIR$/views/blog/View_blog_first_menu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="35" selection-start="771" selection-end="771" vertical-scroll-proportion="0.0">
+        <state line="37" column="4" selection-start="980" selection-end="980" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/View_blog.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="17" selection-start="692" selection-end="692" vertical-scroll-proportion="-15.0">
+        <state line="24" column="17" selection-start="692" selection-end="692" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="20" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.25">
+        <state line="2" column="20" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/Controller_blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="46" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/database/MySqlDb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="35" selection-start="771" selection-end="771" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/tables/TableGateway.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/blog/View_form_create_blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="18" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/blog/View_form_create_post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="38" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/View_index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="32" selection-start="363" selection-end="363" vertical-scroll-proportion="0.26112187">
+        <state line="9" column="32" selection-start="363" selection-end="363" vertical-scroll-proportion="0.27383366">
           <folding />
         </state>
       </provider>

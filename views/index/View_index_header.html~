@@ -1,0 +1,22 @@
+<div id="header">
+  <div class="menu clear">
+   <a class="logo" href="/"></a>
+   <ul class="menu-options">
+    <li>
+     <a href="/">Главная</a>
+    </li>
+    <li>
+     <a href="">Блог</a>
+    </li>
+    <li>
+     <a href="">Контакты</a>
+    </li>
+    <li>
+     <a href="controllers/Controller_registration.php">Регистрация</a>
+    </li>
+    <li>
+     <a href="">Вход</a>
+    </li>
+   </ul>
+  </div>
+ </div>

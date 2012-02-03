@@ -1,0 +1,47 @@
+function Susnost() {
+    this.www = 'goodbye'
+  }
+
+susnost = new Susnost()
+
+Animal.prototype = susnost
+
+function Animal(name) {
+    this.foo = function(arg)
+	       {
+		args = '1'
+		args = arg + args
+		return args
+	       }
+    this.name = name
+    this.canWalk = true
+    this.www = 'good'
+}
+
+var animal = new Animal("скотинка")
+
+// все объекты, созданные Rabbit
+// будут иметь прототип (наследовать) animal
+
+function Rabbit(name) {
+   // this.name = name
+}
+
+Rabbit.prototype = animal
+
+big = new Rabbit('Chuk')
+small = new Rabbit('Gek')
+
+//alert(big.name)  // Chuk
+//alert(small.name) // Gek
+//alert(small.www)
+alert(big.foo('2'))
+alert(big.canWalk) // true
+
+// в Firefox можно еще так
+if (big.__proto__) {  // в Firefox __proto__ это [[Prototype]]
+    alert(big.__proto__.name) // скотинка
+}
+
+
+
